@@ -229,6 +229,7 @@ p {
   left: 0;
   height: 100%;
   background: goldenrod;
+   cursor: pointer;
 }
 
 #toggleSkillsBtn {
