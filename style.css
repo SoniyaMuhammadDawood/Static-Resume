@@ -229,7 +229,6 @@ p {
   left: 0;
   height: 100%;
   background: goldenrod;
-   cursor: pointer;
 }
 
 #toggleSkillsBtn {
@@ -241,6 +240,7 @@ p {
   font-size: 18px;
   margin-left: 400px;
   margin-bottom: 20px;
+  cursor: pointer;
 }
 
 .interest ul {
